@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FitTrack AI",
+  "description": "A comprehensive fitness application that tracks calories via search and manual input, monitors steps using location services, and allows you to log your workouts. Powered by AI for intelligent food searching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
